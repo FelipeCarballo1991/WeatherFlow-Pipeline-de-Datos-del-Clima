@@ -11,3 +11,8 @@
 - ✅ Pipeline ETL modular (extract – transform – load)
 - ✅ Preparado para automatización vía `cron` o Airflow
 - ✅ Preparado para despliegue en la nube (ej: Render, Railway, etc.)
+
+## 🤓 Autor
+Felipe Carballo – Científico de Datos / Ingeniero de Datos
+
+[LinkedIn](https://www.linkedin.com/in/felipe-carballo/)
